@@ -3,3 +3,8 @@ functional requirements
 a.login
 b.placement portal
 c. view attendance
+non func requirements
+a.security
+b.usabilty
+c.scalability
+
